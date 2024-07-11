@@ -1,0 +1,187 @@
+/*Fluid style elements ~ through all 5 pages*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: "Montserrat";
+}
+#navigation {
+    height:20%; 
+    align-items: center;
+    place-content: center;
+
+
+}
+
+.NVD {
+    border: 3px solid #000000; 
+    align-items: center;
+    padding: 5px;
+    font-size: 1.15vw;
+    text-align: center;
+}
+
+
+#Logo {
+    Display: grid; 
+    place-items: center;
+}
+
+
+/*ex1 used for The sweets page */
+
+.ex1 {
+    width:75%;
+    place-items: center;
+    display: grid;
+}
+			
+.ex2 {
+    margin: auto;
+    border: 3px solid;
+    padding: 5px;
+}
+			
+.ex3 {
+    border: 3px solid #000000;
+    
+}
+
+.ex5 {
+    width: 50%;
+    place-items: center;
+    border: 3px solid #000000;
+    display: grid;
+    text-align: center;
+}
+
+.h2 {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 63px;
+}
+
+.h3 {
+    font-family: 'schoolbell', arial, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+#footer {
+    Height: .05%;
+    Display:grid;
+}
+.FC {
+    border: 3px solid #000000; 
+    align-items: center;
+    padding: 5px;
+    font-size: 1.50vw;
+    padding: auto;
+    margin: auto;
+
+}
+
+    /*Main Page Style Elements*/
+
+#Intro {
+
+    height:20%; 
+    text-align: center;
+    display:grid; 
+    Margin: 15px;
+    font-size: 1.25vw;
+    
+}
+
+.WDB {
+    font-size: 1vw;
+}
+
+#Design {
+
+    height:250px; 
+    text-align: center;
+    display:inline-block;
+     Margin: 15px;
+     vertical-align: top;
+     display: grid;
+     
+}
+
+    /* The Sweets style page*/ 
+
+#food {
+    height:230px; 
+    text-align: center;
+    display:inline-flex; 
+    Margin: 15px;
+    font-size: 1vw;
+}
+
+#Hash {
+    text-align: center;
+    font-size: 1.75vw;
+    font-family: 'schoolbell', arial, serif;
+}
+
+#pic {
+    height:250px; 
+    text-align: center;
+    display:inline-block;
+     Margin: 15px;
+     vertical-align: top;
+}
+
+
+
+/*The Savorires Style Elements*/
+
+#main {
+    height:315px;
+    display:grid; 
+    Place-items: center;
+    Margin: 15px;
+}
+
+/*The In Betweens style elements*/
+
+/*Conversions and Substitutiion Style Elements*/
+
+#wrapper {
+    border: 3px solid black;
+    margin: 15px;
+    display: flex;
+}
+
+#wrapper2 {
+    border: 3px solid rgb(255, 255, 255);
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+#Cons {
+    height:33%; 
+    text-align: center;
+    display:inline-block;
+     Margin: 15px;
+     vertical-align: top;
+    font-size: 1vw;
+}
+
+.ex4 {
+    width: 33%;
+    height: inherit;
+    margin: auto;
+    border: 1px solid #000000;
+
+}
+/*Font Styles*/
+
+#recipe {
+    height:auto; 
+    text-align: left;
+    display:grid; 
+    Margin: 15px;
+    vertical-align: top;
+}
+
+
