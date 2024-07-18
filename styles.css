@@ -151,6 +151,7 @@ main h3 {
     display:grid; 
     Margin: 15px;
     vertical-align: top;
+    font-size: 1vw;
 }
 .ex5 {
     width: 50%;
