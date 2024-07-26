@@ -181,9 +181,14 @@ footer a {
 }
 
 /* style codes for form*/
+
 .container {
     border: 3px solid #383737;
     text-align: center;
+    margin-top: 5vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 5vw;
 }
 
 .row {
