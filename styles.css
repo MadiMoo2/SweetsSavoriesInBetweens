@@ -84,7 +84,7 @@ main h3 {
     height:20%; 
     text-align: center;
     font-size: 1vw;
-    margin: 0;
+    margin: 2vw;
     padding-top: 0.5vw;
     padding-bottom: 0.5vw;
     padding-left: 2vw;
@@ -97,11 +97,11 @@ main h3 {
     height:20%; 
     text-align: center;
     font-size: 1vw;
-    margin: 0;
+    margin: 2vw;
     padding-top: 0.5vw;
     padding-bottom: 0.5vw;
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
 }
 
 #wrapper {
