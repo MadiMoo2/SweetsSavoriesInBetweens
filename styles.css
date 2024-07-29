@@ -15,8 +15,8 @@ body, header, nav, main, footer, img, h1, h3 {
 /*Style rules for body and images*/
 
 #img {
-    width: 15vw;
-    height: 15vw;
+    width: 10vw;
+    height: 10vw;
     display:flex;
 }
 
@@ -47,7 +47,7 @@ nav ul {
 
 nav li {
     display: inline-block;
-    font-size: 2vw;
+    font-size: 1vw;
     font-family: Geneva,Arial,sans-serif;
     font-weight: bold;
 }
