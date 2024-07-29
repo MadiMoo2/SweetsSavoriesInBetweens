@@ -27,7 +27,7 @@ body, header, nav, main, footer, img, h1, h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     font-style: italic;
-    font-size: 1.5vw;
+    font-size: 1vw;
 
 }
 
@@ -47,7 +47,7 @@ nav ul {
 
 nav li {
     display: inline-block;
-    font-size: 2.15vw;
+    font-size: 2vw;
     font-family: Geneva,Arial,sans-serif;
     font-weight: bold;
 }
@@ -71,7 +71,7 @@ main {
 }
 
 main p {
-    font-size: 1.25vw;
+    font-size: 1vw;
 }
 
 main h3 {
@@ -83,12 +83,25 @@ main h3 {
     display: inline-block;
     height:20%; 
     text-align: center;
-    font-size: 1.25vw;
+    font-size: 1vw;
     margin: 0;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+#welcome1 {
+    border: 2.5px solid #383737;
+    display: block;
+    height:20%; 
+    text-align: center;
+    font-size: 1vw;
+    margin: 0;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 #wrapper {
@@ -102,7 +115,7 @@ main h3 {
 }
 
 .design {
-    max-width: 25vw;
+    max-width: 20vw;
 }
 
 #pic {
@@ -136,7 +149,7 @@ main h3 {
 }
 
 .action{
-    font-size: 1.75em;
+    font-size: 1.7vw;
     font-weight: bold;
     text-align: center;
 }
@@ -166,7 +179,7 @@ main h3 {
 
 footer {
     text-align: center;
-    font-size: 1.2vw;
+    font-size: 1vw;
     background-color: #d4c4ff;
     color:  #000000;
     padding-top: 1%;
@@ -180,8 +193,8 @@ footer a {
     text-decoration: none;
 }
 
-/* style codes for form*/
 
+/* style codes for form*/
 .container {
     border: 3px solid #383737;
     text-align: center;
@@ -231,9 +244,6 @@ input {
     background-color: #d4c4ff;
   }
   
-
-
-
 
 
 
